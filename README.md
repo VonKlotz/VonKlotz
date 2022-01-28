@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @VonKlotz
-- 👀 I’m interested in ... Space, Any computer stuff, Mechanical stuff, Electronics, Electricity, Games, Plumbing, Concrete, Arduino and Ebikes
+- 👀 I’m interested in ... Space, Hardware hacking, Ebikes, Arduino, Games, Any computer stuff, Mechanical stuff, Electronics, Electricity, Plumbing and Concrete jobs
 - 🌱 I’m always learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at mateusz.kocoiwcz@gmail.com
